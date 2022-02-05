@@ -27,22 +27,198 @@ Schedule of Reading and Writing
 
 Note: Reading includes all editorial introductions to the edition and as many supporting documents as possible, if the edition includes them. Please use assigned editions. Try to read the whole text before the first class.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Mary Rowlandson, _Narrative_ | &nbsp; |
-| 3-4 | Lydia Maria Child, _Hobomok_ | &nbsp; |
-| 5-7 | Nathaniel Hawthorne, _The Scarlet Letter_ | &nbsp; |
-| 8 | Research workshop | Essay one (5 pages) due |
-| 9-11 | Harriet Beecher Stowe, _Uncle Tom's Cabin_ | &nbsp; |
-| 12-13 | William Wells Brown, _Clotel_ | &nbsp; |
-| 14-15 | Herman Melville, _Benito Cereno_ | &nbsp; |
-| 16-18 | Harriet Jacobs, _Incidents in the Life of a Slave Girl_ | Essay two (10 pages) due in Ses #18 |
-| 19 | Rebecca Harding Davis, _Life in the Iron Mills_ | &nbsp; |
-| 20 |  {{< br >}}{{< br >}} Conclude Davis {{< br >}}{{< br >}} Walt Whitman, "A Song for Occupations," "Song of Myself" {{< br >}}{{< br >}}  | &nbsp; |
-| 21 | Whitman, "Calamus" | &nbsp; |
-| 22-24 | Mark Twain, _The Adventures of Huckleberry Finn_ | &nbsp; |
-| 25 | Conclusion | Essay three (5 pages) due 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Mary Rowlandson, _Narrative_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Lydia Maria Child, _Hobomok_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-7
+{{< tdclose >}}
+{{< tdopen >}}
+Nathaniel Hawthorne, _The Scarlet Letter_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Research workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Essay one (5 pages) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-11
+{{< tdclose >}}
+{{< tdopen >}}
+Harriet Beecher Stowe, _Uncle Tom's Cabin_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+William Wells Brown, _Clotel_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-15
+{{< tdclose >}}
+{{< tdopen >}}
+Herman Melville, _Benito Cereno_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16-18
+{{< tdclose >}}
+{{< tdopen >}}
+Harriet Jacobs, _Incidents in the Life of a Slave Girl_
+{{< tdclose >}}
+{{< tdopen >}}
+Essay two (10 pages) due in Ses #18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Rebecca Harding Davis, _Life in the Iron Mills_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Conclude Davis
+
+Walt Whitman, "A Song for Occupations," "Song of Myself"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Whitman, "Calamus"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22-24
+{{< tdclose >}}
+{{< tdopen >}}
+Mark Twain, _The Adventures of Huckleberry Finn_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Essay three (5 pages) due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Requirements
 -------------------
@@ -67,11 +243,48 @@ At the beginning of the term you will select an author to research and present a
 
 ### Grading
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and participation | 20% |
-| Written work - essays (20%, 30%, 20%) | 70% |
-| In-class report | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Written work - essays (20%, 30%, 20%)
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class report
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Statement on Plagiarism
 -----------------------
